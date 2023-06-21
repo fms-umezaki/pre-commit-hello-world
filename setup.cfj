@@ -6,4 +6,4 @@ packages = pre_commit_hello_world
 
 [options.entry_points]
 console_scripts =
-    hello_world = pre_commit_hello_world.main:main
+    hello = ddl_pre_commit_checker.main:main
