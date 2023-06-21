@@ -16,4 +16,4 @@ dependencies = [
 ]
 
 [project.scripts]
-pre-commit-hello-world = pre_commit_hello_world.main:main
+pre-commit-hello-world = "pre_commit_hello_world.main:main"
