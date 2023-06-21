@@ -3,6 +3,4 @@
     description: print "Hello Pre-Commit World!"
     entry: hello
     language: python
-    types:
-      - sql
     
