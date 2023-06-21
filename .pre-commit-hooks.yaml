@@ -1,5 +1,6 @@
 -   id: hello_world
     name: hello_world
     description: print "Hello Pre-Commit World!"
-    entry: hello
+    entry: pre_commit_hello_world
     language: python
+    
