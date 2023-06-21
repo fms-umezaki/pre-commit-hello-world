@@ -1,2 +1,9 @@
+import argparse
+
+
 def main():
-    print("Hello Pre-Commit World!")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--file-name")
+
+    args = parser.parse_args()
+    print(args)
