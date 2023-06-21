@@ -1,5 +1,6 @@
 [metadata]
 name = pre-commit-hello-world
+version = 1.0.0
 
 [options]
 packages = pre_commit_hello_world
